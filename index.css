@@ -1,0 +1,19 @@
+ header {
+    color:snow;
+    text-align: center;
+    padding: 5px;
+    font-family: initial;
+    font-size: 40px;
+    background-image: url('https://gifimage.net/wp-content/uploads/2017/09/animated-car-gif-9.gif');
+  }
+  nav ul {
+    list-style-type: none;
+}
+a {
+   color: black;
+}
+section {
+    width: 516px;
+    display: inline-block;
+    text-align: right;
+}    
